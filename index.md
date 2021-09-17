@@ -6,4 +6,7 @@ Here is the main [[media.md]]
 Here's an Obsidian URL  obsidian://open?vault=dwids.github.io&file=media
 [[obsidian://open?vault=dwids.github.io&file=media]]
 
+Here is the main  [Media page](obsidian://open?vault=dwids.github.io&file=media).
+
+
 
