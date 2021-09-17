@@ -1,10 +1,12 @@
 # Welcome to my MD webpage
 ## Overview
 This page is for lots of things.
+Here is the main [[media.md]]
+
 
 # Open Street Map nominatim - Geolocation - json reply parsing
 
-### First test with hard-coded URL 
+### First test with hard-coded URL
 ```python
 # https://www.geeksforgeeks.org/how-to-read-a-json-response-from-a-link-in-python/
 import json
