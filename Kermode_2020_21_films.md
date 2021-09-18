@@ -1,7 +1,7 @@
 # Kemode 2020-21 suggestions
 
 Saturday, 18 July 2020
-Good Vibrations Back reference to this Belfast based film about an attempt to stage a concert.
+*Good Vibrations* - a back reference to this Belfast based film about an attempt to stage a concert.
 
 **June-Sept 2020**
 
@@ -14,8 +14,7 @@ Good Vibrations Back reference to this Belfast based film about an attempt to st
 *Lynn and Lucy* (one of his faves of the year)
  
 
-*Summerland*. (WWII. Isolated writer gets billeted boy. She's not happy, but bond forms)  *seen
-
+~~Summerland~~. (WWII. Isolated writer gets billeted boy. She's not happy, but bond forms)  **seen**
 
 *Proxima*. Eva Green as astronaut preparing for launch to Iss.
 
@@ -101,6 +100,7 @@ She (Kelly Reichardt, Director) also has other films of interest including the W
 
 **July 30th e30**
 *Limbo*. Scottish island asylum seeker camp
+
 *The most beautiful boy in the world*.
 
 
@@ -118,4 +118,3 @@ She (Kelly Reichardt, Director) also has other films of interest including the W
 
 **September 10 e36**
 *The Collini Case*
-
