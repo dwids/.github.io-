@@ -1,5 +1,4 @@
 ---
 ---
 
-@import "";
-
+"minima-{{ site.minima.skin | default: 'classic' }}";
