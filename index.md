@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 # Welcome to my MD webpages
-## Overview
+## Overview info
 This page is for lots of things. Including media suggestions, like TV shows, streaming shows, documentaries and movies.
 
 This is [a relative link to Media](media.md)
@@ -17,4 +17,4 @@ Basded on his BBC reviews, I've picked up on ones I'd be interested in seeing. I
 
 The [2020-21 list](Kermode_2020_21_films.md)
 
-The main purpose: [The lads media viewing sugguestions](basmedia.md)
+The main purpose: [The lads media viewing suggestions](basmedia.md)
