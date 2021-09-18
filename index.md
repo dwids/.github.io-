@@ -1,4 +1,11 @@
-# Welcome to my MD webpage
+---
+has_children: true
+layout: default
+title: Customization
+nav_order: 4
+---
+
+# Welcome to my MD webpages
 ## Overview
 This page is for lots of things. Including media suggestions, like TV shows, streaming shows, documentaries and movies.
 
