@@ -1,16 +1,13 @@
 # Series, Movies, Docos etc
-## Series
-### Free Catch up
-Text here
-### Streaming $$$
+## Series - free
+text
+## Series - $
 Info on Netflix etc
-## Movies
-### Free Catch up 
+## Movies - free
 Text on iview, SBS films
-### Streaming $$
+## Movies - $
 Netflix films etc
-## Documentaries
-### Free Catch up 
+## Documentaries - free
 Text on iview, SBS docos
-### Streaming $$
+## Documentaries - $
 Info on Amazon etc docos
