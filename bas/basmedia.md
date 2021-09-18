@@ -1,3 +1,10 @@
+---
+has_children: true
+layout: default
+title: Movies, Shows and Docos
+nav_order: 4
+---
+
 # Series, Movies, Docos etc
 ## Series - free
 text

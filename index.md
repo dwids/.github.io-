@@ -1,9 +1,4 @@
----
-has_children: true
-layout: default
-title: Customization
-nav_order: 4
----
+
 
 # Welcome to my MD webpages
 ## Overview info
