@@ -1,3 +1,7 @@
+---
+has_children: true
+---
+
 # Welcome to my MD webpages
 ## Overview
 This page is for lots of things. Including media suggestions, like TV shows, streaming shows, documentaries and movies.
