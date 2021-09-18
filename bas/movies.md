@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: Movie suggestions
 parent: Movies, Shows and Docos
 nav_order: 2
 ---
