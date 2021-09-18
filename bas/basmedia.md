@@ -2,7 +2,7 @@
 has_children: true
 layout: default
 title: Movies, Shows and Docos
-nav_order: 4
+nav_order: 1
 ---
 
 # Series, Movies, Docos etc
