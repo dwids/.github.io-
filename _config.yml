@@ -1,4 +1,2 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-title: Simple MD page
-
 theme: jekyll-theme-time-machine
+title: Simple MD page
