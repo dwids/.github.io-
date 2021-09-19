@@ -15,12 +15,26 @@ h4,
   background-color: $grey-lt-000;
 }
 
+/// h5 is for the Genre
+
 h5,
 .text-delta {
   @include fs-2;
   font-weight: 300;
   letter-spacing: 0.1em;
   color: $green-200;
+  text-transform: none;
+  	
+  }
+  
+/// h6 is for the Provider; Netflix, iView
+
+h6,
+.text-delta {
+  @include fs-2;
+  font-weight: 300;
+  letter-spacing: 0.1em;
+  color: $purple-200;
   text-transform: none;
   	
   }
