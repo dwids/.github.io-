@@ -1,4 +1,6 @@
-
+---
+nav_exclude: true
+---
 
 # Welcome to my MD webpages
 ## Overview info
