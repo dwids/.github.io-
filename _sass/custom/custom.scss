@@ -1,0 +1,14 @@
+//
+// Setting my own colours etc for certain elements; say h4 "film title"
+//
+// Using https://github.com/pmarsceill/just-the-docs/blob/master/_sass/typography.scss  for the format 
+// 
+
+h4,
+.text-delta {
+  @include fs-2;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  color: $blue-200;
+  font-style: italic;
+}
