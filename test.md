@@ -1,6 +1,6 @@
 ---
 nav_exclude: true
-last_modified_date: %F%-T%:z   
+last_modified_date: %H%M%S  
 ---
 
 # Testing of Assorted things
