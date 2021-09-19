@@ -3,4 +3,3 @@ title: Welcome!
 logo: "/assets/images/logoBSB01.jpg"
 color_scheme: myscheme01.scss
 gh_edit_link: false # show or hide edit this page link
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
