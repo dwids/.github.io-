@@ -14,9 +14,7 @@ mycat is {{ mycat }}
 
 text
 
-last_modified_date: {{ site.time | date: '%b %e %Y at %I:%M %p' }}
-
-manual dts approx 8:43 pm 
+manual dts approx 7:58 am 
 
 ## Series - $
 Info on Netflix etc
@@ -29,3 +27,7 @@ Text on iview, SBS docos
 ## Documentaries - $
 Info on Amazon etc docos
 New line added
+
+<p class="text-small text-grey-dk-000 mb-0">
+Page last modified: {{ site.time | date: '%b %e %Y at %I:%M %p' }}  UTC
+</p>
