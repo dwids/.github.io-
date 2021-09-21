@@ -6,25 +6,7 @@ nav_order: 1
 ---
 
 # Series, Movies, Docos etc
-## Series - free
 
-mycat is {{ mycat }}
-
-text
-
-manual dts approx 7:58 am 
-
-## Series - $
-Info on Netflix etc
-## Movies - free
-Text on iview, SBS films
-## Movies - $
-Netflix films etc
-## Documentaries - free
-Text on iview, SBS docos
-## Documentaries - $
-Info on Amazon etc docos
-New line added
 
 <br><br><br><br>
 <p align="center" class="text-small text-grey-dk-000 mb-0">
