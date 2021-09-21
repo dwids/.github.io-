@@ -4,7 +4,7 @@ title: TV & Streaming Series
 parent: Movies, Shows and Docos
 nav_order: 2
 ---
-# Series
+# Series Suggestions
 TV series on free-to-air (inc their catch up services) as well as the non-free streaming services
 ## Free to Air
 Examples here

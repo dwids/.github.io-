@@ -4,7 +4,7 @@ parent: Movies, Shows and Docos
 nav_order: 2
 ---
 
-# Movies
+# Movie Suggestions
 ## Film Noir
 Film noir, (French: “dark film”) style of filmmaking characterized by such elements as cynical heroes, stark lighting effects, frequent use of flashbacks, intricate plots, and an underlying existentialist philosophy. The genre was prevalent mostly in American crime dramas of the post-World War II era. [[https://www.britannica.com/art/film-noir]]
 
