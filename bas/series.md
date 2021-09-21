@@ -14,6 +14,6 @@ Your it to gave life whom as. Favourable dissimilar resolution led for and had. 
 #### Show title
 
 <br><br><br><br>
-<p class="text-small text-grey-dk-000 mb-0">
+<p align="center" class="text-small text-grey-dk-000 mb-0">
 Page last modified: {{ site.time | date: '%A %b %e %Y at %I:%M %p' }}  UTC
 </p>

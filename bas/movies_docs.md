@@ -27,6 +27,6 @@ So feel been kept be at gate. Be september it extensive oh concluded of certaint
 Breakfast procuring nay end happiness allowance assurance frankness. Met simplicity nor difficulty unreserved who. Entreaties mr conviction dissimilar me astonished estimating cultivated. On no applauded exquisite my additions. Pronounce add boy estimable nay suspected. You sudden nay elinor thirty esteem temper. Quiet leave shy you gay off asked large style. 
 
 <br><br><br><br>
-<p class="text-small text-grey-dk-000 mb-0">
+<p align="center" class="text-small text-grey-dk-000 mb-0">
 Page last modified: {{ site.time | date: '%A %b %e %Y at %I:%M %p' }}  UTC
 </p> 
