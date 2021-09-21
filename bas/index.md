@@ -1,5 +1,6 @@
 ---
 has_children: true
+has_toc: false
 layout: default
 title: Movies, Shows and Docos
 nav_order: 1
