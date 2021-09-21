@@ -1,6 +1,7 @@
 ---
-nav_exclude: true
-last_modified_date: %H%M%S  
+title: Movies
+parent: Movies, Shows and Docos
+nav_order: 2
 ---
 
 # Movies

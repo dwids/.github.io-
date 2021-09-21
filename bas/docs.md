@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Movie & Docos
+title: Documentaries
 parent: Movies, Shows and Docos
 nav_order: 2
 ---
