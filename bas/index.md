@@ -9,10 +9,14 @@ mycat: Bushwalking
 
 # Series, Movies, Docos etc
 ## Series - free
+
 mycat is {{ mycat }}
+
 text
+
 last_modified_date: {{ site.time | date: '%b %e %Y at %I:%M %p' }}
-manual dst 7:04 pm 
+
+manual dts approx 8:43 pm 
 
 ## Series - $
 Info on Netflix etc
