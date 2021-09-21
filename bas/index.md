@@ -3,13 +3,13 @@ has_children: true
 layout: default
 title: Movies, Shows and Docos
 nav_order: 1
-last_modified_date: '%H%M%S'  
+last_modified_date: {{ site.time | date: '%Y%M' }}
 ---
 
 # Series, Movies, Docos etc
 ## Series - free
 text
-last_modified_date: '%H%M%S' 
+last_modified_date: {{ site.time | date: '%Y%M' }}
 ## Series - $
 Info on Netflix etc
 ## Movies - free
