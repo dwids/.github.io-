@@ -9,13 +9,13 @@
 h4,
 .text-delta {
   @include fs-3;
-  font-weight: 600;
+  font-weight: 800;
   letter-spacing: 0.1em;
   color: $blue-200;
   font-style: italic bold;
   text-transform: none;
 //  background-color: $grey-lt-000;
-  margin-top: 15px;  
+  margin-top: 20px;  
 }
 
 /// h5 is for the Provider; Netflix, iView etc
