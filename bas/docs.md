@@ -25,5 +25,5 @@ You can have rhythm without music but you can't have music without rhythm. An ex
 
 <br><br><br><br>
 <p align="center" class="text-small text-grey-dk-000 mb-0">
-Page last modified: {{ site.time | date: '%A %b %e %Y at %I:%M %p' }}  UTC
+Page last modified: {{ site.time | date: '%A %b %e %Y at %I:%M %p' }}  (Melbourne)
 </p> 

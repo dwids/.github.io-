@@ -44,5 +44,5 @@ Season 1 and Season 2 (in progress) on **Apple TV+**
 
 <br><br><br><br>
 <p align="center" class="text-small text-grey-dk-000 mb-0">
-Page last modified: {{ site.time | date: '%A %b %e %Y at %I:%M %p' }}  UTC
+Page last modified: {{ site.time | date: '%A %b %e %Y at %I:%M %p' }}  (Melbourne)
 </p>
