@@ -3,12 +3,12 @@ layout: default
 title: TV & Streaming Series
 parent: Movies, Shows and Docos
 nav_order: 2
-has_toc: false
+has_toc: true
 ---
 # Series Suggestions
 TV series on free-to-air (inc their catch up services) as well as the non-free streaming services
 ## Free to Air
-(to be added here)
+(to be added here...)
 
 ## Paid Streaming
 
@@ -16,7 +16,6 @@ TV series on free-to-air (inc their catch up services) as well as the non-free s
 `Comedy, Mystery & Thriller, Crime, Drama`
 
 Three strangers who share an obsession with true crime suddenly find themselves caught up in one.
-
 On **Disney+**
 
 
