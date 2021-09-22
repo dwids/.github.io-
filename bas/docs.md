@@ -22,8 +22,3 @@ Documentary film that focuses on the period beginning with the birth of Motown i
 `#music` 
 You can have rhythm without music but you can't have music without rhythm. An exhilarating celebration of the art of rock drumming, featuring some of the best drummers ever to have graced the drumkit. The viewer is taken on a uplifting journey through some of the most iconic music ever created, focusing on the women and men with the sticks, their passions, culture and awe-inspiring energy.
 **Netflix**
-
-<br><br><br><br>
-<p align="center" class="text-small text-grey-dk-000 mb-0">
-Page last modified: {{ site.time | date: '%A %b %e %Y at %I:%M %p' }}  (Melbourne)
-</p> 

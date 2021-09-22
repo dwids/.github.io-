@@ -49,8 +49,3 @@ In the 1850s, Captain Charles Boone relocates his family to his ancestral home i
 Follows an American football coach Ted Lasso who heads to the U.K. to manage a struggling London football team in the top flight of English football.
 
 Season 1 and Season 2 (in progress) on **Apple TV+**
-
-<br><br><br><br>
-<p align="center" class="text-small text-grey-dk-000 mb-0">
-Page last modified: {{ site.time | date: '%A %b %e %Y at %I:%M %p' }}  (Melbourne)
-</p>
