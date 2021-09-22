@@ -13,3 +13,9 @@ A quick few pages on suggested TV/Streaming Series, Movies and Documentaries:
 - [Movies](movies.md)
 - [Documentaries - inc feature length and series](docs.md)
 
+<br><br><br><br><br><br>
+<p class="text-small text-grey-dk-000 mb-0">
+Page last modified: {{ site.static_files.first.modified_time | date: '%A %b %e %Y at %I:%M %p' }} (Melbourne)
+</p>
+
+
