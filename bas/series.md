@@ -3,6 +3,7 @@ layout: default
 title: TV & Streaming Series
 parent: Movies, Shows and Docos
 nav_order: 2
+has_toc: false
 ---
 # Series Suggestions
 TV series on free-to-air (inc their catch up services) as well as the non-free streaming services
