@@ -26,4 +26,4 @@ DS Tip: It's in Olde English and can be a bit hard to understand; the subtitles 
 Film noir, (French: “dark film”) style of filmmaking characterized by such elements as cynical heroes, stark lighting effects, frequent use of flashbacks, intricate plots, and an underlying existentialist philosophy. The genre was prevalent mostly in American crime dramas of the post-World War II era. [source](https://www.britannica.com/art/film-noir)
 
 
-Page date: {{ page.date }}
+site.static_files.first.modified_time is {{ site.static_files.first.modified_time }}

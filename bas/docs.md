@@ -24,5 +24,4 @@ You can have rhythm without music but you can't have music without rhythm. An ex
 **Netflix**
 
 
-Page date: {{ page.date }}
 
