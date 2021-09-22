@@ -13,7 +13,8 @@ TV series on free-to-air (inc their catch up services) as well as the non-free s
 ## Paid Streaming
 
 #### Only Murders in the Building
-`Comedy, Mystery & Thriller, Crime, Drama` Three strangers who share an obsession with true crime suddenly find themselves caught up in one. On **Disney+**
+`Comedy, Mystery & Thriller, Crime, Drama` Three strangers who share an obsession with true crime suddenly find themselves caught up in one. 
+- On **Disney+**
 
 
 #### Morning Wars
