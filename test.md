@@ -1,5 +1,5 @@
 ---
-last_modified_date: 'site.time | date: '%A %b %e %Y at %I:%M %p'
+last_modified_date: site.time | date: '%A %b %e %Y at %I:%M %p'
 mycat: TestPage
 ---
 
