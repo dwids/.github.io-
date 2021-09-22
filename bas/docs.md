@@ -24,4 +24,4 @@ You can have rhythm without music but you can't have music without rhythm. An ex
 **Netflix**
 
 
-site.static_files.first.modified_time is {{ site.static_files.first.modified_time }}
+site.static_files.first.modified_time is {{ site.static_files.first.modified_time | date: '%A %b %e %Y at %I:%M %p' }} (Melbourne)
