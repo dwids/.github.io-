@@ -7,6 +7,8 @@ mycat: TestPage
 
 Added *last_modified_date* key, it is: {{ page.last_modified_date }}
 
-mycat Key is: {{ page.mycat }}
+mycat Key is: {{ page.mycat }} 
 
 Manual value: {{ site.time | date: '%A %b %e %Y at %I:%M %p' }}
+
+Added footer
