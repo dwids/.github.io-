@@ -25,5 +25,5 @@ DS Tip: It's in Olde English and can be a bit hard to understand; the subtitles 
 
 <br><br><br><br>
 <p align="center" class="text-small text-grey-dk-000 mb-0">
-Page last modified: {{ site.time | date: '%A %b %e %Y at %I:%M %p' }}  UTC
+Page last modified: {{ site.time | date: '%A %b %e %Y at %I:%M %p' }}  (Melbourne)
 </p>
