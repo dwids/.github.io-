@@ -1,8 +1,9 @@
 ---
-title: Movies
+title: Movie Genres
 parent: Movies, Shows and Docos
 nav_order: 2
 has_toc: false
+nav_exclude: true
 ---
 # Movie Genre Descriptions
 ## Film Noir
