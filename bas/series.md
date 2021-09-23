@@ -16,13 +16,13 @@ TV series on free-to-air (inc their catch up services) as well as the non-free s
 ## Paid Streaming
 
 #### Only Murders in the Building
-`comedy mystery thriller crime drama` Three strangers who share an obsession with true crime suddenly find themselves caught up in one. 
+`comedy mystery thriller crime drama` Three strangers who share an obsession with true crime suddenly find themselves caught up in one. [Trailer](https://youtu.be/-V1rQdXXXyI)
 - On **Disney+**
 
 
 #### Morning Wars
 `drama`
-Known elsewhere at *The Morning Show*. Alex Levy anchors The Morning Show, a popular breakfast news program broadcast from Manhattan on the UBA network, which has excellent viewership ratings and is perceived to have changed the face of American television.  After her on-air partner of 15 years, Mitch Kessler, is fired amidst a sexual misconduct scandal, Alex fights to retain her job as top news anchor while sparking a rivalry with Bradley Jackson, a haphazard field reporter whose series of impulsive decisions brings her into a new world of television journalism. 
+Known elsewhere at *The Morning Show*. Alex Levy anchors The Morning Show, a popular breakfast news program broadcast from Manhattan on the UBA network, which has excellent viewership ratings and is perceived to have changed the face of American television.  After her on-air partner of 15 years, Mitch Kessler, is fired amidst a sexual misconduct scandal, Alex fights to retain her job as top news anchor while sparking a rivalry with Bradley Jackson, a haphazard field reporter whose series of impulsive decisions brings her into a new world of television journalism. [Trailer for s01](https://youtu.be/ZPYUpfIoM9w)
 - Season 1 and 2 on **Apple TV+**
 
 #### Vigil
@@ -37,13 +37,13 @@ Examines the crisis that led to the impeachment of president Clinton as seen thr
 
 #### Chapelwaite
 `horror`
-In the 1850s, Captain Charles Boone relocates his family to his ancestral home in the small, sleepy town of Preacher's Corners. Charles will soon have to confront the secrets of his family's history and fight to end the darkness.  Based on the short story "Jerusalem's Lot" by American writer Stephen King
+In the 1850s, Captain Charles Boone relocates his family to his ancestral home in the small, sleepy town of Preacher's Corners. Charles will soon have to confront the secrets of his family's history and fight to end the darkness.  Based on the short story "Jerusalem's Lot" by American writer Stephen King. [Trailer](https://youtu.be/5Oe21SFan_0)
 - 10 part series on **Stan**
 
 
 #### Ted Lasso
  `comedy drama sport`
-Follows an American football coach Ted Lasso who heads to the U.K. to manage a struggling London football team in the top flight of English football.
+Follows an American football coach Ted Lasso who heads to the U.K. to manage a struggling London football team in the top flight of English football. [Trailer for s01](https://youtu.be/3u7EIiohs6U)
 - Season 1 and Season 2 (in progress) on **Apple TV+**
 
 #### For All Mankind
