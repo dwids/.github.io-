@@ -4,6 +4,6 @@ nav_exclude: true
 
 ### Simple Markdown Website
 
-Main purpose:  [list of suggested TV series, movies etc](bas\index.md)
+Main purpose:  [list of suggested TV series, movies etc](bas\)
 
-Testing
+Testing more
