@@ -4,3 +4,5 @@ logo: "/assets/images/logoBSB01.jpg"
 color_scheme: myscheme01.scss
 gh_edit_link: false # show or hide edit this page link
 timezone: Australia/Melbourne
+kramdown:
+  parse_block_html: true
