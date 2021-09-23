@@ -17,7 +17,7 @@ TV series on free-to-air (inc their catch up services) as well as the non-free s
 
 #### Halt and Catch Fire
 `drama` 
-The series depicts a fictionalized insider's view of the personal computer revolution of the 1980s and the growth of the World Wide Web in the early 1990s. The show's title refers to computer machine code instruction Halt and Catch Fire (HCF), the execution of which would cause the computer's central processing unit to stop working (catch fire being a humorous exaggeration). [Trailer](https://youtu.be/pWrioRji60A)
+The series depicts a fictionalized insider's view of the personal computer revolution of the 1980s and the growth of the World Wide Web in the early 1990s. The show's title refers to computer machine code instruction Halt and Catch Fire (HCF), the execution of which would cause the computer's central processing unit to stop working (catch fire being a humorous exaggeration). [Trailer for s01](https://youtu.be/pWrioRji60A)
 
 There are many references to IBM and the products of that time (XT, 3030, 3080, 3090 ….)
 - On **Binge**
