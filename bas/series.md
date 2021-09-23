@@ -27,12 +27,12 @@ Known elsewhere at *The Morning Show*. Alex Levy anchors The Morning Show, a pop
 
 #### Vigil
 `whodunit mystery`
-From the BBC. The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.
+From the BBC. The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services. [Trailer](https://youtu.be/3XRW0kfI2As)
 - 6 part series on **Binge** (Foxtel)
 
 #### American Crime Story: Impeachment
 `drama real_life usa_politics`
-Examines the crisis that led to the impeachment of president Clinton as seen through the eyes of the women at the centre of the events.
+Examines the crisis that led to the impeachment of president Clinton as seen through the eyes of the women at the centre of the events. [Trailer](https://youtu.be/HY3CH0_KoJU)
 - 10 part series **Binge** (Foxtel)
 
 #### Chapelwaite
