@@ -19,8 +19,10 @@ Originally badly received this has gone on to be something of a classic of film 
 DS Tip: It's in Olde English and can be a bit hard to understand; the subtitles help a lot.
 [trailer here](https://youtu.be/iQXmlf3Sefg)
 
-#### The Innocents (1961)
-*A young governess for two children becomes convinced that the house and grounds are haunted.*
-Actors: Deborah Kerr, Peter Wyngarde, Megs Jenkins
-Added: Sun September 26, 2021. [IMDB link, usually with a nice **trailer** too](https://www.imdb.com/title/tt0055018)
 
+#### The Innocents (1961)
+`Horror` *A young governess for two children becomes convinced that the house and grounds are haunted.*
+
+Actors: Deborah Kerr, Peter Wyngarde, Megs Jenkins
+
+Added: Sun September 26, 2021. [IMDB link, usually with a nice **trailer** too](https://www.imdb.com/title/tt0055018)
