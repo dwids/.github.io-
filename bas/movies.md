@@ -9,9 +9,9 @@ A list of suggested films, both old and new.  More info on the [different types 
 ## Film Noir
 
 #### Detour (1945)
-*Chance events trap hitchhiking nightclub pianist Al Roberts in a tightening net of death, deception and blackmail.*
-
-Originally badly received this has gone on to be something of a classic of film noir. It's a short - 65 minutes - and interesting film, shot very quickly and on a small budget. There's an OK [copy on YouTube](https://youtu.be/tap67KjjPu8) as it's apparently in the public domain.  
+`Crime, Drama, Film-Noir` *Chance events trap hitchhiking nightclub pianist Al Roberts in a tightening net of death, deception and blackmail.* Originally badly received this has gone on to be something of a classic of film noir. It's a short - 65 minutes - and interesting film, shot very quickly and on a small budget. There's an OK [copy on YouTube](https://youtu.be/tap67KjjPu8) as it's apparently in the public domain.  
+Actors: Tom Neal, Ann Savage, Claudia Drake
+Added: Sun September 26, 2021. [IMDB link, usually with a nice **trailer** too](https://www.imdb.com/title/tt0037638)
 
 ## Horror 
 #### The Witch (2015)
