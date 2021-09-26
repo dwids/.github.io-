@@ -15,8 +15,8 @@ Added: Sun September 26, 2021. [IMDB link, usually with a nice **trailer** too](
 
 ## Horror 
 #### The Witch: A New-England Folktale (2015) 
-`Drama, Horror, Mystery` Aka 'The VVitch' *A family in 1630s New England is torn apart by the forces of witchcraft, black magic, and possession.*  
-DS Tip: It's in Olde English and can be a bit hard to understand; the subtitles help a lot. 
+`Drama, Horror, Mystery` Aka 'The VVitch' *A family in 1630s New England is torn apart by the forces of witchcraft, black magic, and possession.*    
+DS Tip: It's in Olde English and can be a bit hard to understand; the subtitles help a lot.   
 Actors: Anya Taylor-Joy, Ralph Ineson, Kate Dickie  
 Added: Sun September 26, 2021. [IMDB link, usually with a nice **trailer** too](https://www.imdb.com/title/tt4263482)
 
