@@ -21,8 +21,6 @@ DS Tip: It's in Olde English and can be a bit hard to understand; the subtitles 
 
 
 #### The Innocents (1961)
-`Horror` *A young governess for two children becomes convinced that the house and grounds are haunted.*
-
-Actors: Deborah Kerr, Peter Wyngarde, Megs Jenkins
-
+`Horror` *A young governess for two children becomes convinced that the house and grounds are haunted.*  
+Actors: Deborah Kerr, Peter Wyngarde, Megs Jenkins  
 Added: Sun September 26, 2021. [IMDB link, usually with a nice **trailer** too](https://www.imdb.com/title/tt0055018)
