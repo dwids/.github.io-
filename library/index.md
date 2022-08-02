@@ -8,8 +8,3 @@ nav_order: 1
 
 # Practical Library Guide
 New content 
-
-### Callouts (Rubrics) *new*
-
->[!Note] My title
->Need to update version 2 
