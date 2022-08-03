@@ -1,4 +1,11 @@
-  
+---
+has_children: true
+has_toc: false
+layout: default
+title: Obsidian Stress Test
+full-width: true
+nav_order: 2
+---
 # ObsidianStressTest (H1)
 ## H2 Quick Test
 
@@ -58,6 +65,13 @@ Keyboard | Allows you to type into the computer
 Printer | Creates printed output onto paper
 Mouse | Freeform input device 
 Monitor  | Display screen. May have speakers 
+
+Now a wide table
+
+Item | Description | Last Column
+---- | --- | ---
+Keyboard | Allows you to type into the computer | Not so wide
+Mouse | Now is the time for all good men to come to the aid of the party | An input device | 
 
 
 And this is a block quote with attribution:
