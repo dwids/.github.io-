@@ -71,7 +71,8 @@ Now a wide table
 Item | Description | Last Column
 ---- | --- | ---
 Keyboard | Allows you to type into the computer | Not so wide
-Mouse | Now is the time for all good men to come to the aid of the party | An input device | 
+Mouse | Now is the time for all good men to come to the aid of the party and see if they can help us with whatver we need | An input device | 
+Screen | [A long movie title](https://www.imdb.com/title/tt0031381)
 
 
 And this is a block quote with attribution:
