@@ -66,11 +66,8 @@ And this is a block quote with attribution:
 
 \- Albert Einstein
 
+This is a tag
 #tips
-
-
-https://exiftool.org/forum/index.php?topic=11412.0.
-
 
 ## Link  testing
 
@@ -88,7 +85,9 @@ Streeton (1934).  '....."He was deeply concerned when he came back to Australia 
 
 #### Internal Links
 
-Can we jump straight to [[docs]] and can I add my [[docs]]
+Can we can jump straight to [[docs]] (that is Wikilink format) ?
+
+What about to a place within this same page/note?  [[#H2 Quick Test]]
 
 ## Others
 
