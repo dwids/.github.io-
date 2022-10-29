@@ -6,7 +6,8 @@ title: Obsidian Stress Test
 full-width: true
 nav_order: 2
 ---
-# ObsidianStressTest (H1)
+
+# This is a Heading 1
 ## H2 Quick Test
 
   You can also create quick links, like my page [[Good Trip List]]   Here is an external link being [a YouTube video](https://www.youtube.com/watch?v=VPBmshzmtVM) of **mine** from near *Apollo Bay.*  Inline `code` sample.
@@ -45,7 +46,6 @@ Here's a Powershell script code block
 ```powershell
 # stop and start Print Spoooler
 # must be run from Admin PowerShell prompt
-#   https://www.lifehacker.com.au/2021/07/how-to-avoid-windows-printnightmare-security-threat/
 param ($action)
 if ($action -eq 'stop') {
 Write-Host 'will be STOPPING and DISABLING the Spooler'
@@ -57,7 +57,9 @@ Get-Service -Name Spooler | Select-Object -Property *
 }
 ```
 
-I can draw your ==attention== to something or even indicate that it ~~no longer applies~~  Here is a **table**:
+I can draw your ==attention== to something or even indicate that it ~~no longer applies~~  
+
+## Tables
 
 Item | Description
 ---- | ---
@@ -66,55 +68,66 @@ Printer | Creates printed output onto paper
 Mouse | Freeform input device 
 Monitor  | Display screen. May have speakers 
 
-Now a wide table
-
-Item | Description | Last Column
----- | --- | ---
-Keyboard | Allows you to type into the computer | Not so wide
-Mouse | Now is the time for all good men to come to the aid of the party and see if they can help us with whatver we need | An input device | 
-Screen | [A long movie title](https://www.imdb.com/title/tt0031381)
-
-
-And this is a block quote with attribution:
+## Block Quotes
+And this is a block quote with attribution. I don't use these.
 
 >Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.
 
 \- Albert Einstein
 
-This is a tag
 #tips
 
-## Link  testing
+https://exiftool.org/forum/index.php?topic=11412.0.
 
-#### External
-Just the link:
+## Footnotes
+Can't see me using these^[But that may change] but it's nice that that they auto-increment^[And are recalculated when moved within the document]
 
-https://sidwell.id.au/2020/06/29/photos-williamstown-sunset-mt-macedon-and-hanging-rock/
+## Callouts (Rubrics)
+I like these, but they seem to be 'non-standard' markdown. Don't think Github has these.
+>[!Warning] Backup first!
+>Data may be lost in this next step
 
-[My own link description](https://sidwell.id.au/2020/06/29/photos-williamstown-sunset-mt-macedon-and-hanging-rock/)
+>[!Note] These next steps may take 5 minutes to run
+> Leave it running until the OK prompt appears
 
-** Image link (imbedded)** : 
-Streeton (1934).  '....."He was deeply concerned when he came back to Australia in the 1920s, seeing much-loved landscapes being cut down." In 'The vanishing forest', Streeton is making a statement. It's a large-scale painting, intentionally similar in size to his most famous works, and, as Tunnicliffe tells us, he's asking Australians to take the destruction seriously....' [source](https://concreteplayground.com/sydney/arts-entertainment/five-key-paintings-by-impressionist-arthur-streeton-and-why-theyre-still-relevant-today)
-![here it is](https://images.theconversation.com/files/368447/original/file-20201110-18-1alpa7a.jpg)
-
-
-#### Internal Links
-
-Can we can jump straight to [[docs]] (that is Wikilink format) ?
-
-What about to a place within this same page/note?  [[#H2 Quick Test]]
-
-## Others
-
-### Callouts (Rubrics) *new*
-
->[!Note] My title
->Need to update version 2 
-
-### Checklist
+>[!faq] Do I need to be install QGIS first?
+> Yes. Otherwise the macro below will not run
+## Checklist
 
 - [x] This
 - [ ] is a
 - [ ] checklist
 
-#star
+## Links
+
+### External (Website)
+
+Raw link https://sidwell.id.au/2020/07/12/melbourne-observatory-location-1871-modern-values/
+Same [link](https://sidwell.id.au/2020/07/12/melbourne-observatory-location-1871-modern-values/)
+
+### Link to Heading in Same file
+
+Raw link: [[#H2 Quick Test]]
+Same with alias [[#H2 Quick Test|Heading 2]]
+
+### Link to Heading/Block in other File 
+For any (?) link can use the | symbol to give an alternate display text for the link
+
+*Heading* link: Raw link covering [[George Hudson - Summary#George and Alice]] and the same one covering [[George Hudson - Summary#George and Alice|their marriage]]
+*Block* link: Reginald George was Alice and George Hudson's [[George Hudson - Summary#^c80605]]  first born.   Shorter to write he was their [[George Hudson - Summary#^c80605| first born]] 
+
+## Images
+### External Image (Website)
+Link to live embed image of external image, standard/default size
+![text](https://content.ngv.vic.gov.au/col-images/api/EXHI013687/1920)
+
+Same image but now forced to be 400 px
+![text|400](https://content.ngv.vic.gov.au/col-images/api/EXHI013687/1920)
+
+### Local Image File
+For me, these are artefacts from OneNote etc. I did convert them so they still work in Obsidian. This is stored within the Obsidian 'file space' (folders)
+
+![[logoDSwt.jpg]]
+
+
+

@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "809a45b9dd156398",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fcff6443643db5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78925ef196f1d5be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ObsidianStressTest.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b22dac6a6f16cb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f2a7fed634a145b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad33ad9544702a14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05bdb5805342c539",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "103b10b45a837559",
+    "type": "split",
+    "children": [
+      {
+        "id": "809eb324461a3cc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d5ae6edb336ba5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ObsidianStressTest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "78925ef196f1d5be",
+  "lastOpenFiles": [
+    "assets/images/logoDSwt.jpg",
+    "ObsidianStressTest.md",
+    "Pages-External-HDDs-and-Interface-types-image1.jpg.md",
+    "bas/Basic markdown sample.md",
+    "index.md",
+    "bas/docs.md",
+    "library/index.md",
+    "bas/movie_genres.md",
+    "bas/index.md",
+    "library/Libby.md"
+  ]
+}
