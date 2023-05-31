@@ -1,6 +1,6 @@
 ---
 has_children: true
-has_toc: false
+has_toc: true
 layout: default
 title: Obsidian Stress Test
 full-width: true
