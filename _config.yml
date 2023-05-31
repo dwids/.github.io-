@@ -4,5 +4,6 @@ logo: "/assets/images/logoDSwt.jpg"
 color_scheme: myscheme01.scss
 gh_edit_link: false # show or hide edit this page link
 timezone: Australia/Melbourne
+markdown: GFM
 kramdown:
   parse_block_html: true
