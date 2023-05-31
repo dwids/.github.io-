@@ -10,7 +10,7 @@ nav_order: 2
 # This is a Heading 1
 ## H2 Quick Test
 
-  You can also create quick links, like my page [[Good Trip List]]   Here is an external link being [a YouTube video](https://www.youtube.com/watch?v=VPBmshzmtVM) of **mine** from near *Apollo Bay.*  Inline `code` sample.
+  You can also create quick links, like my page [[Good Trip List]]   Here is an external link being [a YouTube video](https://www.youtube.com/watch?v=VPBmshzmtVM) of **mine** from near *Apollo Bay.*  Inline `code` sample:
  
 ```sql
 # For testing, ensure they have the text 'love' in the Songname
